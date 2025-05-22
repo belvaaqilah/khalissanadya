@@ -1,6 +1,6 @@
 import streamlit as st
 
-st.title("🎈 belvaaqilah")
-st.write(belvaaailah)
-    "belvaaqilah."
+st.title("🎈 khalissanadyamukti28maps")
+st.write(khalissanadyamukti28maps)
+    "khalissanadyamukti28maps."
 )
